@@ -1,1 +1,1 @@
-Custom maps made by the Circle of Friends community.
+Counter-Strike 1.6 maps made by the Circle of Friends community.
