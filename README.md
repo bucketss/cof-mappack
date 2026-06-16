@@ -1,1 +1,1 @@
-Custom maps made by players from the Circle of Friends community.
+Custom maps made by the Circle of Friends community.
