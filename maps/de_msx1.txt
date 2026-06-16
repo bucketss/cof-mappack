@@ -1,0 +1,16 @@
+de_msx1
+
+Map, custom sounds, and custom textures by MistaX88 [COF]
+
+Play COF! clancof.net
+
+A map with a simple aesthetic.
+
+Counter-Terrorists start directly on top of one bombsite with a short route to the other
+with a good sniper vantage point right in spawn that also offers a quick rotation to either.
+
+The Terrorists have some potential flanking options to counter this initial advantage,
+including the "long way" around the map that Counter-Terrorists should be sure not to
+leave exposed.
+
+I hope everyone has fun on this one!

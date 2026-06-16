@@ -1,0 +1,10 @@
+fy_trifecta
+
+Map and Textures by MistaX88 [COF]
+
+An 3-in-1 fy map featuring a standard "4-square" type design, a scoutzknivez type map with built in low gravity,
+and a small Dual Elites map with all the crates one desires in a 90's era FPS.
+
+---
+
+Play COF! clancof.net

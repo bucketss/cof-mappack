@@ -1,0 +1,45 @@
+fy_aimcorp_nw
+
+Map by MistaX88 [COF]
+
+Play COF! clancof.net
+
+Note: This map is a version of fy_aimcorp with the weather effects removed, the most
+important being the flash of lightning wich seemed to cause a massive stutter on
+certain machines regardless of how powerful the hardware was (my 3.1Ghz i5 and GTX570
+were fine while GPU's and CPU's more powerful were having issues). I've decided to
+remove the rain and thunder as well and I bumped up the environment light just a
+tiny bit.
+
+---------------------
+
+Starting out as a little known company making affordable weapon optics and other types
+of sights, Aimcorp was soon purchased by by an independently wealthy entrepreneur. Soon
+the company grew exponentially, and it bought out so many various companies that weapon
+optics were only a small fraction of their business as a result, despite the name
+Aimcorp remaining. The AimCorp headquarters grew larger, and larger, with some believing
+there to be significantly more underground than above ground...but that's only hearsay.
+It is apparent, however, that the headquarters is quite a strange patchwork of offices
+and industrial areas.
+
+What is also apparent is the intentional divide between the blue collar and white collar
+employees brought on by seemingly maniacal companies polices handed down from the top.
+The encouraged poor treatment of the blue collar workers kept a strong resentment on both
+sides and it is now on the verge of exploding after all of the buildings break rooms and
+the cafeterias were segregated, while openly labeling the blue collar workers "plebs."
+
+Now, late in the evening after the work day is over, the blue collar and white collar
+tension is indeed exploding, and it appears that is in the form of a gun fight in the
+courtyard and cafeterias...and also on the roof! 
+
+---------------------
+
+This map has a 12 round cycle that alternates between the lower and the upper map. It uses
+a weapon vend feature each round where players press a button to get a pistol and the
+pistol is changed every two rounds. It features all six pistols in the game.
+
+---------------------
+
+One or more textures on this map have been created with images from
+Textures.com. These images may not be redistributed by default.
+Please visit www.textures.com for more information.

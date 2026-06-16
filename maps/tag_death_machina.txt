@@ -1,0 +1,28 @@
+tag_death_machina
+
+Map by MistaX88 [COF]
+
+An ambitious map inspired by "Eh!! The Reaper's" map de_ethics_v2 and countless maps made by the legendary Nipper.
+
+Story:
+In an effort to compete with Aperture Science the lesser known Iris Laboratories needed to gather test subjects
+quickly. To do so they hired a mercenary group under false pretences to trap them in the facility. They then called up the
+regional Counter-Terrorism forces to take care of the threat, only to secretly trap them in the facility as well.
+
+Both parties soon realized they were stuck in the facility fighting over hologram hostages. Amongst many of the
+things being experimented with, Iris was perfecting their breakthrough medical systems that would revive
+people even after being shot up; even in the head! The early success of this system has allowed the team
+at Iris to keep the mercenaries and counter-terrorism forces indefinitely as they repeatedly force them
+to battle each other over holograms and revive them to have to fight all over again the next night.
+
+Instructions:
+Each team must complete a deadly obstacle course before getting onto the battlefield.
+There are 6 hostages on the map but they are inside of their own rescue zone, meaning a CT must only "tag out" the
+hostages. Only 1 player from each team may enter the "AWP Door" to skip past most of the obstacle course and
+knife fight the enemy player to see who gets the one AWP on the map. To force a knife fight, a hole in the
+floor must be broken open (taking 4 right-click stabs with the knife). I wouldn't recommend teaming up
+with the enemy player and cooperating to open up the floor because remember: There can be only one!
+
+This map has a few secrets!
+
+Play COF! clancof.net

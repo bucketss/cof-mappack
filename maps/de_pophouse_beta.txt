@@ -1,0 +1,12 @@
+de_pophouse_beta
+
+Map by MistaX88 [COF]
+
+Using default textures along with a few custom textures by MistaX88.
+
+This map has a single bombsite that is designed for quick and fun play with 10-12 players or less in the spirit of a Demolition map like in CS:GO.
+However, larger servers have been taken into consideration and there are still 32 spawn points on the map. Gun selection is intentionally limited
+so doors will open in each spawn depending on the number of players on each team! This is the beta version of the map, please let me know if you
+run into any problems! Just look up this map on gamebanana.com or 17buddies.net and leave feedback there!
+
+Play COF! clancof.net

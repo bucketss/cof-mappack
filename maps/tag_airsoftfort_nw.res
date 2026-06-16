@@ -1,0 +1,2 @@
+maps/tag_airsoftfort_nw.res
+maps/tag_airsoftfort_nw.txt

@@ -1,0 +1,13 @@
+tag_airsoftfort
+
+Map by MistaX88 [COF]
+
+TAG! A hostage rescue mode that has the hostages spawned inside rescue zones,
+meaning that they only have to be "tagged" out by a Counter-Terrorist!
+
+This map is set up to play like an fy map with an objective.
+
+Play COF! clancof.net
+
+This version ending in _nw is a version where all wad files are included.
+Some servers were having issues with the wad file for some reason.

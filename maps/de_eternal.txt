@@ -1,0 +1,40 @@
+de_eternal - Defuse/Bomb
+
+Author: Max (von A)
+Date: Marzo 2o11
+URL: http://www.comunidadupc.com
+
+Dedicated to:
+
+Dedicado con todo mi respeto a la 
+Comunidad UpC International Clan, 
+a Luis Royo por su fantasia inspiradora
+que nos sabe regalar dia a dia.
+Y dedicado con todo mi amor a Mariel.
+
+-------------------------------------------------------
+ETERNAL
+
+Eternal es una remake del mapa de 2oo6 
+de_upc_xpert, en el 5to Aniversario de
+su lanzamiento.
+
+Historia:
+
+El mitico castillo custodiado por el 
+"Clan del Dragon" corre peligro...
+
+La fortaleza que permanecio vedada 
+durante siglos, perdida en algun lugar 
+del Bosque Inexorable,
+fue descubierta por un grupo de terroristas
+que planean destruirla.
+
+------------------------------------------------------
+
+-Terrorists: Colocar el explosivo C4 en
+el pequeño cementerio o hacer volar el deposito
+de polvora que se encuenta en los antiguos
+calabozos del castillo.
+
+-Counter-Terrorists: evitar que esto suceda.

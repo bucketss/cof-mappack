@@ -1,0 +1,10 @@
+maps/de_pophouse.res
+maps/de_pophouse.txt
+overviews/de_pophouse.tga
+overviews/de_pophouse.txt
+sound/mistax88/fridgeloop.wav
+sound/mistax88/hvac1.wav
+sound/mistax88/oldfan1.wav
+sound/mistax88/secondsiteopen.wav
+sound/mistax88/sideareaopen.wav
+sound/mistax88/urbandayloop1.wav

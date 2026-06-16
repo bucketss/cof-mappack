@@ -1,0 +1,15 @@
+//Overview description file for de_pophouse.bsp
+
+global
+{
+	ZOOM 1.52
+	ORIGIN -160.00	-352.00    -300
+	ROTATED 1
+	
+}
+
+layer
+{
+	IMAGE	"overviews/de_pophouse.tga"
+	HEIGHT	-300
+}

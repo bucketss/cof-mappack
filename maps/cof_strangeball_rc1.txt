@@ -1,0 +1,19 @@
+Strangeball
+by Stefano 'Lord Strangiato' Pinti (https://github.com/Rolpa)
+
+This map is HORSE BALONEY!
+
+Grab the 'ball' and smash the opposing team's barrier. 
+Use their severed head to win the round! 
+A new 'ball' is spawned 30 seconds after a thrown one hits the ground.
+The pools next to spawn will regenerate your health.
+
+**********************************************
+
+Special thanks to: 
+
+Clan COF (http://clancof.net), for whom this map was lovingly crafted,
+
+and TWHL (http://twhl.info). 
+
+P.S. Hey Mecha the Niners still suck                                    

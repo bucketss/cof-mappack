@@ -1,0 +1,10 @@
+de_airsoftfort
+
+Map by MistaX88 [COF]
+
+A bomb defuse variant of my map tag_airsoftfort
+
+Play COF! clancof.net
+
+This version ending in _nw is a version where all wad files are included.
+Some servers were having issues with the wad file for some reason.

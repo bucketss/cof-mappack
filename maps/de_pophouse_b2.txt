@@ -1,0 +1,26 @@
+de_pophouse_b2
+
+Map by MistaX88 [COF]
+
+Using default textures along with a few custom textures by MistaX88.
+
+This map starts off as a small 1-bombsite map that is set up with limited weapons in an attempt to make it play like a Demolition map from CS:GO and be
+fun for smaller servers. As player counts increase, however, areas of the map open up to reveal more areas including more weapons and a second bombsite!
+
+Special thanks to everyone who helped me figure out how to set up the counting system at The Whole Half-Life! twhl.info
+
+This map is a beta version! If you've played this map, be sure to leave some feedback or report any new bugs on the maps page on Gamebanana or 17 Buddies!
+
+Bugs:
+There is a round 1 bug where sometimes extra doors will open that can't be fixed as far as I can tell. I believe this is caused by a rapid switch from warmup
+to round 1 that doesn't allow the counters to be reset making it count a few players in warmup followed by counting the entire team on top of that on the
+start of the round.
+
+Sometimes when the player count on a team is right on the line the next door that is supposed to open will not open. This isn't a big deal for the extra
+path and second bombsite but it is a big deal for the weapons doors as there are limited weapons for players. I have rectified this by reducing the
+number of players required to open each weapon door by 1. This slightly throws off the weapon balance I was aiming for but doesn't completely ruin it
+since the balance would still be thrown off by one extra player causing a door with 5 more guns behind it to open.
+
+
+
+Play COF! clancof.net

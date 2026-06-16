@@ -1,0 +1,17 @@
+de_goofacility
+
+Map, custom sounds, and custom textures by MistaX88 [COF]
+
+Play COF! clancof.net
+
+Reiner's Precious Goo Corporation is under attack!
+
+Counter-Terrorists must stop the Terrorists from bombing
+a shipment of Radioactive Goo Concentrate or the
+overflow control computer for the Radioactive Goo.
+
+Terrorists have infiltrated the building via a skylight
+in The Allahu Snackbar employee break room and must do
+whatever is necessary to blow up one of their two targets.
+
+

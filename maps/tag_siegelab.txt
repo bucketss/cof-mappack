@@ -1,0 +1,20 @@
+tag_siegelab
+
+Map by MistaX88 [COF]
+
+Play COF! clancof.net
+
+---------------------
+
+Another map using my "tag" type hostage game
+mode. "Tag" is a hostage rescue map in which
+the hostages spawn inside a rescue zone. This
+means that they must only be "tagged out" to
+be rescued. This map has another twist in
+that it tries to mimic a "siege type" game
+mode with 1-way barriers. All Terrorists
+spawn inside the laboratory with the
+hostages and can't leave the building. The
+Counter-Terrorists spawn on either side of
+the building. Once they enter they also cannot
+leave.

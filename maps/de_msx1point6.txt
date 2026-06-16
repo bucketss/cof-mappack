@@ -1,0 +1,9 @@
+de_msx1point6
+
+Map, custom sounds, and custom textures by MistaX88 [COF]
+
+Play COF! clancof.net
+
+A modified version of de_msx1. Changed a bombsite, added some details,
+added more textures, changed the fencing on the bridge so grenades
+may pass through and so that all guns may shoot through.
